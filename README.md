@@ -2,12 +2,15 @@
 Repositório de aprendizado do laboratório do Bootcamp da DIO sobre o DP-100
 
 O que eu pude retirar do aprendizado com esse laboratório.
+![image](https://github.com/user-attachments/assets/2bfc071f-9fa0-4a05-9278-8c7c8b1edba9)
 
 Insights e Possibilidades
 Este projeto proporcionou uma experiência prática no uso de inteligência artificial aplicada à análise de documentos científicos sobre taxa de churn — um dos temas mais relevantes para empresas orientadas à experiência do cliente e à retenção.
+![image](https://github.com/user-attachments/assets/5d7502f1-f1c0-4dab-8e64-9c233085d8bb)
 
 Principais Insights:
 Entendimento aprofundado sobre o churn: A ferramenta desenvolvida permitiu interpretar textos acadêmicos e técnicos sobre churn de forma contextualizada, facilitando a comparação entre abordagens estatísticas, preditivas e estratégicas.
+![image](https://github.com/user-attachments/assets/706dcfa6-596b-4224-a285-c22c460bd645)
 
 Conexão entre dados e estratégia: Ao cruzar informações de diversos PDFs, a IA ajudou a identificar como métricas como CLV, NPS e segmentação de clientes se integram aos modelos de redução de churn.
 
